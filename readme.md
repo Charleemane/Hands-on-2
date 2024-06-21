@@ -59,11 +59,12 @@
 <!-- The following are just sample -->
 Description of the project in details.
 
-Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+Hero themes:
+- Coffee
+- Clash of Clans
+- Frieren
+- Harry Potter
+- Guitar
 
 ### Key Components
 <!-- TODO: List of Key Components -->
@@ -118,3 +119,6 @@ WD-ProjectName
 | Title | Purpose | Link |
 |-|-|-|
 | Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Creating Responsive CSS Cards | Reference code | https://www.youtube.com/watch?v=9FNNkzPBFcE |
+| How TO - Blurred Background Image | Reference code | https://www.w3schools.com/howto/howto_css_blurred_background.asp |
+| CSS matic | box-shadow | https://www.cssmatic.com/box-shadow |
