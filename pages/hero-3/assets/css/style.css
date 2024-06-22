@@ -1,0 +1,30 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    /*outline: rgb(0, 0, 0) 2px dotted;*/
+}
+
+body, html {
+    height: 300vh;
+}
+
+.button-container {
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+    top: 10;
+    left: 40%;
+
+        .buttons {
+            opacity: 0.5;
+        
+            &:hover{
+                opacity: 1;
+                -webkit-box-shadow: -1px 10px 24px 0px rgba(255,255,255,1);
+                -moz-box-shadow: -1px 10px 24px 0px rgba(255,255,255,1);
+                box-shadow: -1px 10px 24px 0px rgba(255,255,255,1);
+            }
+        }
+    }

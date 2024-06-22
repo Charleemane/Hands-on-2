@@ -2,7 +2,7 @@
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
-    outline: rgb(0, 0, 0) 2px dotted;
+    /*outline: rgb(0, 0, 0) 2px dotted;*/
 }
 
 body, html {
