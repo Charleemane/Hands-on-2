@@ -6,21 +6,21 @@
 <div align="center">
   <a href="https://github.com/zyx-0314/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="" alt="Nyebe" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">Hands-on-2</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  Heroes and Cards
 </div>
 
 <br />
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=Charleemane/WD-Hands-on-2)
 
 ---
 
@@ -118,7 +118,7 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
-| Creating Responsive CSS Cards | Reference code | https://www.youtube.com/watch?v=9FNNkzPBFcE |
-| How TO - Blurred Background Image | Reference code | https://www.w3schools.com/howto/howto_css_blurred_background.asp |
-| CSS matic | box-shadow | https://www.cssmatic.com/box-shadow |
+| Creating Responsive CSS Cards | Card reference code | https://www.youtube.com/watch?v=9FNNkzPBFcE |
+| How TO - Blurred Background Image | Blurred-image reference code | https://www.w3schools.com/howto/howto_css_blurred_background.asp |
+| CSS matic | box-shadow generator | https://www.cssmatic.com/box-shadow |
+| PNGWING | Clash of Clans assets | https://www.pngwing.com/en/search?q=clash+of+clans#google_vignette |
