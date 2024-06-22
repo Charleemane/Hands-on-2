@@ -1,0 +1,11 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    outline: black 1px dotted;
+}
+
+body, html {
+    height: 300vh;
+}
+

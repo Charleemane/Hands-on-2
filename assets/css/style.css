@@ -46,7 +46,14 @@ body, html {
     
     .buttons {
         z-index: 0;
-        :not(:hover){
+
+        &:hover{
+            -webkit-box-shadow: -1px 10px 24px 0px rgba(255,255,255,1);
+            -moz-box-shadow: -1px 10px 24px 0px rgba(255,255,255,1);
+            box-shadow: -1px 10px 24px 0px rgba(255,255,255,1);
+        }
+
+        &:not(:hover){
             opacity: 0.5;
         }
     }
